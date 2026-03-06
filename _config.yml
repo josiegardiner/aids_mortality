@@ -4,7 +4,7 @@
 # Site Settings
 title: "AIDS INFORMATION"
 description: "Two realities of the AIDS crisis running in parallel - the human cost (the graph) and the social response (the MJA cover)."
-url: "https://aidsmortality.github.io"
+url: "https://josiegardiner.github.io"
 baseurl: "/aids_mortality"
 author: "Josie Gardiner"
 telar_theme: "austin" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
