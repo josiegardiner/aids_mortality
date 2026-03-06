@@ -1,30 +1,24 @@
-name: "Neogranadina"
-description: "Vibrant coral and green palette with colonial-era typography"
-creator: "Neogranadina"
-creator_url: "https://neogranadina.org"
+name: "Archive Documentary"
+description: "Minimal archival theme inspired by historical newspapers and research archives"
+creator: "Custom"
+creator_url: ""
 
 colors:
-  # Text/Font colors
   text:
-    heading: "#000000"        # Heading font color
-    body: "#6C7A89"           # Body text color
-    link: "#D35F3A"           # Hyperlink color (deeper coral)
-    button: "#FFFFFF"         # Button text color
-    panel_layer1: "#FFFFFF"   # Layer 1 panel text color
-    panel_layer2: "#FFFFFF"   # Layer 2 panel text color
-    panel_glossary: "#2A2F36" # Glossary panel text color
+    heading: "#111111"
+    body: "#4A4A4A"
+    link: "#8B1E2D"
+    button: "#FFFFFF"
+    panel_layer1: "#FFFFFF"
+    panel_layer2: "#FFFFFF"
+    panel_glossary: "#1F2933"
 
-  # Background colors
   background:
-    button: "#2A2F36"         # Button background
-    panel_layer1: "#00b35c"   # Layer 1 panel background
-    panel_layer2: "#b31235"   # Layer 2 panel background
-    panel_glossary: "#F5F7FA" # Glossary panel background
+    button: "#8B1E2D"
+    panel_layer1: "#F8F6F3"
+    panel_layer2: "#EDEAE6"
+    panel_glossary: "#F4F6F8"
 
-# Fonts - You can use any Google Fonts
-# Visit https://fonts.google.com to browse available fonts
-# Format: "'Font Name', fallback" (keep the quotes and fallback)
-# Example: "'Roboto', sans-serif" or "'Merriweather', serif"
 fonts:
-  headings: "'IM Fell DW Pica', serif"
-  body: "'Mulish', sans-serif"
+  headings: "'Libre Baskerville', serif"
+  body: "'Source Sans 3', sans-serif"
