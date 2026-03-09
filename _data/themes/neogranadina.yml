@@ -1,23 +1,20 @@
 name: "Rustic Archive"
 description: "Old document inspired theme with antique paper tones and classic typography"
 creator: "Custom"
-
 colors:
   text:
-    heading: "#1C1C1C"
-    body: "#5E5A55"
-    link: "#8C2F39"
-    button: "#FFFFFF"
-    panel_layer1: "#1C1C1C"
-    panel_layer2: "#1C1C1C"
-    panel_glossary: "#2E2E2E"
-
+    heading: "#1A0F07"
+    body: "#2C1F10"
+    link: "#7A2530"
+    button: "#F5EDD6"
+    panel_layer1: "#1A0F07"
+    panel_layer2: "#1A0F07"
+    panel_glossary: "#2C1F10"
   background:
-    button: "#2E2E2E"
-    panel_layer1: "#F4EFE7"
-    panel_layer2: "#E8E2D8"
-    panel_glossary: "#F4EFE7"
-
+    button: "#3D2B1A"
+    panel_layer1: "#EDE0C4"
+    panel_layer2: "#E0CFA8"
+    panel_glossary: "#D9C89A"
 fonts:
   headings: "'IM Fell DW Pica', serif"
   body: "'Libre Baskerville', serif"
